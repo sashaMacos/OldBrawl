@@ -18,8 +18,8 @@ class Config:
             "ShowPacketsInLog": False,
             "Maintenance": False,
             "Patch": False,
-            "PatchUrl": "https://classicbrawl.000webhostapp.com/",
-            "UpdateUrl": "https://github.com/PhoenixFire6879/Classic-Brawl"
+            "PatchUrl": "https://kuzymuzy.ru/OldBrawl/patch",
+            "UpdateUrl": "https://kuzymuzy.ru/OldBrawl/update"
         }
 
         with open('config.json', 'w') as config_file:
